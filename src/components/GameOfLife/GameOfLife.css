@@ -1,0 +1,43 @@
+body {
+  background: #000000;
+  color: grey;
+  font-family: 'Montseratt', monospace;
+  overflow: hidden;
+  user-select: none;
+  /* to stop from selecting any part of the screen */
+}
+
+.high {
+  text-align: center;
+  padding-top: 3.5vh;
+}
+
+button {
+  color: #fff !important;
+  border: none;
+  margin-right: 0.25em;
+}
+
+button:hover {
+  color: #fff;
+}
+
+header {
+  font-size: 4vw !important;
+  margin: 0 auto;
+  max-width: 700px;
+  margin-bottom: 1.5rem;
+  color: whitesmoke;
+  font-size: 4rem;
+  line-height: 1.125;
+}
+
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+footer {
+  margin-top: 3vh;
+  padding-bottom: 3vh;
+}
