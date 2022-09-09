@@ -37,6 +37,10 @@ a {
   text-decoration: none;
 }
 
+a:hover {
+  color: #692dac;
+}
+
 footer {
   margin-top: 3vh;
   padding-bottom: 3vh;
